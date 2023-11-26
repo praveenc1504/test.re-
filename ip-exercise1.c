@@ -33,7 +33,7 @@ int main(){
     // Display the results to the user
     printf("Increment : %.2f", increment);
     printf("\nTotal salary : %.2f", totSalary);
-
+   printf("hello world");
     return 0;
 }
 
